@@ -1,12 +1,12 @@
-#Milestone Project 3 (Paddy Boyle photography showcase website)
+# Milestone Project 3 (Paddy Boyle photography showcase website)
  
-##Initiation -
+## Initiation -
 
 For the Interactive Data-Centric Development Milestone Project (project 3), I have decided to update a website for my client 
 Paddy Boyle. He needs a website that showcases his property photography. I previously developed his old website 
 http://www.pboylephotography.com/ and I think it needs updating to look more modern.
  
-##£Kickstarter Meeting -
+## £Kickstarter Meeting -
 
 After talking with Paddy, we decided on a few main points, he needs different categories for his photo galleries, i.e:
 
@@ -17,13 +17,13 @@ After talking with Paddy, we decided on a few main points, he needs different ca
 
 He would also like an **about page**, a **services page** and a **contact page**.
  
-##£Thoughts after the meeting:
+## £Thoughts after the meeting:
 
 It seems that Paddy wants a simple showcase website. He would like it to be a corporate looking site with a green colour 
 scheme. I will be able to reuse a lot of the content from the old site (images, text).
  
  
-##Main Technology Requirements for Project -
+## Main Technology Requirements for Project -
 
 ###Required:
 
@@ -35,9 +35,9 @@ navbar template for every page on the site.
 - MongoDB - I can use the MongoDB DBMS with JSON framework to store data about the images and maybe add a text area so that 
 you can comment on individual images. This user functionality will incorporate the CRUD processes.
  
-##Plan -
+## Plan -
 
-###Initial UX/UI Development -
+### Initial UX/UI Development -
 
 - Home Page - I have had a research into contemporary photography websites and settled on a simple homepage design that shows 
 a striking image provided by paddy. He will be providing all of the Images for this project. This image will be full width and height. 
@@ -51,11 +51,11 @@ responsive.
 use a bootstrap gridded layout.
 - Contact Page - I will use the gmail API to implement a contact form with a bootstrap themed form.
  
-###Wireframe Sketches -
+### Wireframe Sketches -
 
 I decided to use a bootstrap theme to save time.
  
-##Documentation -
+## Documentation -
 
 I decided to use the GitPod IDE for this project because I couldn’t install pymongo in Cloud9. I thought it would be best 
 if I started with the home page first so I could make a template that was consistent throughout the website.
